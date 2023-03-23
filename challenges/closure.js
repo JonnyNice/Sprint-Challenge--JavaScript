@@ -31,7 +31,7 @@ function summation(p) {
   for (let i=0; i<=p; i++) {
     sum += i;
   }
-  
+
   return sum;
 }
 
